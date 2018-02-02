@@ -1,3 +1,10 @@
+(************************************************************************************************************)
+
+(*** Developed by teachers of Programming Paradigms Course of University of A Coruña  ***)
+
+(************************************************************************************************************)
+
+
 {
   open Parser;; (* El tipo token esta definido en parser.mli *)
   exception Error_lexico;; 
