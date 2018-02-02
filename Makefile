@@ -1,3 +1,10 @@
+######################################################################################################################
+
+##############  Developed by teachers of Programming Paradigms Course of University of A Coruña   ####################
+
+######################################################################################################################
+
+
 all: diccionario libreria expr_arit instruccion parser scanner fcalc
 	ocamlc -o calc diccionario.cmo libreria.cmo expr_arit.cmo instruccion.cmo parser.cmo scanner.cmo calc.cmo
 
