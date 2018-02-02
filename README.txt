@@ -1,4 +1,4 @@
-Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com) with the exception of following files parser.mly, scanner
+Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com) with the exception of following files parser.mly, scanner.mll and Makefile which were developed by teachers of Programming Paradigms Course of University of A Coruña
 
 
 Basic floating point calculator with variables which calculate basic operations: Addition, subtraction, multiplication and division and extra functions such as absolute value, square root, exponential, natural logarithm and round.
