@@ -1,5 +1,25 @@
 Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com) with the exception of following files parser.mly, scanner.mll and Makefile which were developed by teachers of Programming Paradigms Course of University of A Coruña
 
+**********************************************************************
+
+Copyright (C) 2017  Caetán Tojeiro Carpente
+
+Software developed by Caetán Tojeiro Carpente, which is explained previously,
+is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/agpl-3.0.html>
+
+**********************************************************************
+
 
 Basic floating point calculator with variables which calculate basic operations: Addition, subtraction, multiplication and division and extra functions such as absolute value, square root, exponential, natural logarithm and round.
 It is possible to assign variables, visualize calculator's internal state and visualize internal function's library.
