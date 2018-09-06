@@ -2,7 +2,7 @@ Developed by Caetán Tojeiro Carpente (caetantojeiro95@gmail.com) with the excep
 
 **********************************************************************
 
-Copyright (C) 2017  Caetán Tojeiro Carpente
+Copyleft (C) 2017  Caetán Tojeiro Carpente
 
 Software developed by Caetán Tojeiro Carpente, which is explained previously,
 is free software: you can redistribute it and/or modify
